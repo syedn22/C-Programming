@@ -11,5 +11,6 @@ int main()
 
     printf("Value of *ip variable: %d\n", *ip);
 
-    return 0;
+ 
+   return 0;
 }
